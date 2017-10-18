@@ -71,5 +71,8 @@ public class AntiSpamFilterAutomaticConfiguration {
    
     return algorithms;
   }
+  public int batata(){
+	  return 0;
+  }
 
 }
